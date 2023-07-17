@@ -1,0 +1,17 @@
+
+~
+java:S1128"MRemove this unused import 'com.eshoppingzone.order.service.OrderServiceImpl'.(ÿº¿øÿÿÿÿHìRMINORZ
+CODE_SMELL
+\
+java:S3416'"0Update this logger to use "OrderResource.class".(ç²€ÔHîRMINORZ
+CODE_SMELL
+w
+java:S4684I"@Replace this persistent entity with a simple POJO or DTO object.(‡Æß¸şÿÿÿÿHïRCRITICALZVULNERABILITY
+r
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(ŸŒ‹¥HğRCRITICALZVULNERABILITY
+q
+java:S1128"@Remove this unused import 'com.eshoppingzone.order.entity.Cart'.(ÌŒ‡şÿÿÿÿHñRMINORZ
+CODE_SMELL
+`
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿHóRMINORZ
+CODE_SMELL

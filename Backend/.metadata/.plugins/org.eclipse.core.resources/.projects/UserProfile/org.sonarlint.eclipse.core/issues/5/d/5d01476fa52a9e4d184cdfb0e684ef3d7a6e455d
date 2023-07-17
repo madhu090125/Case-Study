@@ -1,0 +1,7 @@
+
+
+java:S3655-"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(×µÏôşÿÿÿÿ8‹˜‘Ğ€1HúRMAJORZBUG
+s	java:S125&"<This block of commented-out lines of code should be removed.(ÆĞÒûÿÿÿÿ8şå™Ğ€1H÷RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¨Ñ¾–ùÿÿÿÿ8‹˜‘Ğ€1HñRMAJORZ
+CODE_SMELL

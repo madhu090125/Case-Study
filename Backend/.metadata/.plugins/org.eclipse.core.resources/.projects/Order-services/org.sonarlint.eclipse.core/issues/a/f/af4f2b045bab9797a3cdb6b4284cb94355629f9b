@@ -1,0 +1,16 @@
+
+q
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿHƒRMINORZ
+CODE_SMELL
+‰
+java:S1128"XRemove this unused import 'com.eshoppingzone.order.controller.MyGlobalExceptionHandler'.(º¢ÓşüÿÿÿÿH…RMINORZ
+CODE_SMELL
+{
+java:S1128"ORemove this unused import 'javax.swing.colorchooser.AbstractColorChooserPanel'.(•ÃúşH‡RMINORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿH‰RMINORZ
+CODE_SMELL
+q
+java:S1128"@Remove this unused import 'com.eshoppingzone.order.entity.Cart'.(ÌŒ‡şÿÿÿÿH‹RMINORZ
+CODE_SMELL

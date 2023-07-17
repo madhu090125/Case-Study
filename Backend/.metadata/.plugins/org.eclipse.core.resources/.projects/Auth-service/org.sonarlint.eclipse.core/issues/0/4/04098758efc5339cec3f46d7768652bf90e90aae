@@ -1,0 +1,29 @@
+
+U
+java:S1452:"&Remove usage of generic wildcard type.(“ºŠH¿RCRITICALZ
+CODE_SMELL
+V
+java:S5411P"*Use the primitive boolean expression here.(‡Ö…²HÀRMINORZ
+CODE_SMELL
+‚
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8ş‹õÛà0HÃRMINORZ
+CODE_SMELL
+w
+java:S1612D"KReplace this lambda with method reference 'GrantedAuthority::getAuthority'.(¡©é½HÅRMINORZ
+CODE_SMELL
+}	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(îöÕäüÿÿÿÿ8ğ×ôÛà0HÇRMAJORZ
+CODE_SMELL
+~
+java:S6204E"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹HÈRMAJORZ
+CODE_SMELL
+U
+java:S1452O"&Remove usage of generic wildcard type.(”ÚùêHÉRCRITICALZ
+CODE_SMELL
+V	java:S131f""Add a default case to this switch.(¶„æ8ğ×ôÛà0HÊRCRITICALZ
+CODE_SMELL
+V
+java:S5411T"*Use the primitive boolean expression here.(Œ‰ÓŒHËRMINORZ
+CODE_SMELL
+
+java:S1128"URemove this unused import 'org.springframework.security.access.prepost.PreAuthorize'.(ˆ†×ùÿÿÿÿ8ş‹õÛà0HÎRMINORZ
+CODE_SMELL

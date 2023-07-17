@@ -1,0 +1,17 @@
+
+`
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ8Ïƒ—1HÛRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(é®ïÿÿÿÿÿ8üõË€1HİRMAJORZ
+CODE_SMELL
+_
+java:S1128",Remove this unused import 'lombok.ToString'.(¹ÂÄÓ8Ïƒ—1HŞRMINORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8‘¨±â0HàRMINORZ
+CODE_SMELL
+n
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8Ïƒ—1HâRMINORZ
+CODE_SMELL
+s	java:S1253"<This block of commented-out lines of code should be removed.(İ‹û¿üÿÿÿÿ8üõË€1HäRMAJORZ
+CODE_SMELL

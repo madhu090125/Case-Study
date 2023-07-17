@@ -1,0 +1,40 @@
+
+h
+java:S2259c"EA "NullPointerException" could be thrown; "product" is nullable here.(µÅqHÌRMAJORZBUG
+|
+java:S3655\"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ï§‰¨8çÌ ýÿ0HÐRMAJORZBUG
+s	java:S1254"<This block of commented-out lines of code should be removed.(»Ô¢üÿÿÿÿ8èÌ ýÿ0HÑRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(üÆ¼ˆÿÿÿÿÿ8èÌ ýÿ0HÕRMAJORZ
+CODE_SMELL
+s	java:S125'"<This block of commented-out lines of code should be removed.(¢¡ŠŸýÿÿÿÿ8èÌ ýÿ0HÙRMAJORZ
+CODE_SMELL
+n	java:S125,"<This block of commented-out lines of code should be removed.(çð¾¤8èÌ ýÿ0HÚRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ž¥HÛRMINORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(ž–à¬8èÌ ýÿ0HÜRMAJORZ
+CODE_SMELL
+Š
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ðÿûÿÿÿÿ8èÌ ýÿ0HÝRMINORZ
+CODE_SMELL
+‡
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(§˜É8èÌ ýÿ0HßRCRITICALZ
+CODE_SMELL
+s	java:S125!"<This block of commented-out lines of code should be removed.(Ð¦šªøÿÿÿÿ8èÌ ýÿ0HêRMAJORZ
+CODE_SMELL
+j	java:S106ª"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿHìRMAJORZ
+CODE_SMELL
+p
+java:S2259‹"EA "NullPointerException" could be thrown; "product" is nullable here.(²´õöþÿÿÿÿHíRMAJORZBUG
+d
+java:S1128	"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿHñRMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àýÿÿÿÿ8èÌ ýÿ0HóRMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(›¥÷ˆûÿÿÿÿHõRMINORZ
+CODE_SMELL
+s	java:S125)"<This block of commented-out lines of code should be removed.(ùè€Éýÿÿÿÿ8èÌ ýÿ0H÷RMAJORZ
+CODE_SMELL

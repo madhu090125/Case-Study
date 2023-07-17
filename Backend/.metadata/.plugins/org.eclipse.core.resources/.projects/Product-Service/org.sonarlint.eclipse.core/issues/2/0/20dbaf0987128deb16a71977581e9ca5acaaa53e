@@ -1,0 +1,34 @@
+
+h
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8‘Ì¥±â0HžRMINORZ
+CODE_SMELL
+„
+java:S1128"LRemove this unused import 'org.springframework.web.multipart.MultipartFile'.(ôŸœžÿÿÿÿÿ8‘Ì¥±â0H RMINORZ
+CODE_SMELL
+s	java:S125A"<This block of commented-out lines of code should be removed.(Çà»¿úÿÿÿÿ8°ÃûÃü0H¢RMAJORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8‘Ì¥±â0H¥RMINORZ
+CODE_SMELL
+r
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(êøµÊH§RCRITICALZVULNERABILITY
+n	java:S125%"<This block of commented-out lines of code should be removed.(û±öØ8´–ýÃü0H¨RMAJORZ
+CODE_SMELL
+m	java:S125#"<This block of commented-out lines of code should be removed.(ôäÂW8´–ýÃü0H©RMAJORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8‘Ì¥±â0HªRMINORZ
+CODE_SMELL
+^
+java:S34161"2Update this logger to use "ProductResource.class".(ç²€ÔH¬RMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestPart'.(æñ³þÿÿÿÿ8‘Ì¥±â0H­RMINORZ
+CODE_SMELL
+w
+java:S1128"?Remove this unused import 'org.springframework.http.MediaType'.(úŸÝ¯þÿÿÿÿ8‘Ì¥±â0H¯RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(íö‘ú8´–ýÃü0H±RMAJORZ
+CODE_SMELL
+y
+java:S4684H"@Replace this persistent entity with a simple POJO or DTO object.(ºòÊù8‡¼€Áü0H³RCRITICALZVULNERABILITY

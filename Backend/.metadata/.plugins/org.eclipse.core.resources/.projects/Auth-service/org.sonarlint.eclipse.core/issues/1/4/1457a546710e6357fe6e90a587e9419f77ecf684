@@ -1,0 +1,9 @@
+
+u
+java:S1874"BRemove this use of "EnableGlobalMethodSecurity"; it is deprecated.(ö­ê×8£ªä“1HŒRMINORZ
+CODE_SMELL
+l
+java:S1874@"9Remove this use of "authorizeRequests"; it is deprecated.(Ô˜‡‹8£ªä“1HRMINORZ
+CODE_SMELL
+n	java:S125O"<This block of commented-out lines of code should be removed.(“¥È—8£ªä“1HRMAJORZ
+CODE_SMELL
